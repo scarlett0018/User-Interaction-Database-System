@@ -1,8 +1,8 @@
-# Project2_Report
+# User Interaction Database System
 
 ## Overview
 
-Project2_Report is a database-driven application designed to handle user interactions such as registration, post management, and interaction tracking. The application includes features for user verification, post creation, and detailed user actions with a focus on data integrity and transaction management.
+User Interaction Database System is a database-driven application designed to handle user interactions such as registration, post management, and interaction tracking. The application includes features for user verification, post creation, and detailed user actions with a focus on data integrity and transaction management.
 
 ## Features
 
@@ -43,11 +43,11 @@ Project2_Report is a database-driven application designed to handle user interac
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Project2_Report.git
+   git clone https://github.com/your-username/User Interaction Database System.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Project2_Report
+   cd User Interaction Database System
    ```
 3. Set up the database:
    - Create a new database.
